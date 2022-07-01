@@ -7,7 +7,7 @@ Run with Python:
 python3 Assignment\ 1/assignment1.py u.data > Assignment\ 1/output.txt
 ```
 
-Make sure to install MrJob
+Make sure to install MRJob and download the `u.data` from Moodle. 
 ```
 pip install mrjob
 ```
