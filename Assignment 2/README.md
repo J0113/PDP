@@ -20,3 +20,5 @@ Jolle Snaas - 644546
 3. Wait a while....
 
 5. Check the output. (it should show in the terminal)
+
+![](Screenshot from 2022-07-15 17-17-53.png)
