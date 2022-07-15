@@ -20,8 +20,8 @@ filtered_orders = FILTER orders BY target == 'Holland';
 -- 4. Then, group the orders by location
 grouped_orders = FOREACH(GROUP filtered_orders by location) GENERATE group as location, MAX(filtered_orders.(target)) as target, COUNT($1) as c;
 
--- 5. Finally, sort from high to low 
-sorted_orders = ORDER grouped_orders BY location DESC;
+-- 5. Finally, sort alphabetically 
+sorted_orders = ORDER grouped_orders BY location ASC;
 
 -- 6. Output the results
 DUMP sorted_orders
