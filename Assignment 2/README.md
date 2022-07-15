@@ -22,4 +22,4 @@ Jolle Snaas - 644546
 
 5. Check the output. (it should show in the terminal)
 
-<img src="Screenshot from 2022-07-15 17-17-53.png">
+<img src="Screenshot from 2022-07-15 17-22-17.png">
