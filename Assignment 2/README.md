@@ -18,7 +18,8 @@ Jolle Snaas - 644546
 - `pig assignment2.pig` (make sure that assignment2.pig is in the current dir)
 
 3. Wait a while....
+<img src="Screenshot from 2022-07-15 15-29-44.png">
 
 5. Check the output. (it should show in the terminal)
 
-![](Screenshot from 2022-07-15 17-17-53.png)
+<img src="Screenshot from 2022-07-15 17-17-53.png">
